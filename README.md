@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**NataliaGatti/NataliaGatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working as a freelance public accountant
 - 🌱 I’m currently learning about digital tools
@@ -15,4 +13,4 @@
 - I love to dance and read
 - I really like to walk with friends in nature, share barbecue with my family
 - To maintain a balance I do meditations
--->
+
