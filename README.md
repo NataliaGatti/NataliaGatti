@@ -7,10 +7,10 @@
 - 🤔 I’m looking for help with venture into the tech world
 - 📫 How to reach me:
 - :e-mail: gattinati.ng@gmail.com
-- 0351-153112471
-- /in/natalia-gatti/
+- :calling: 0351-153112471
+- :computer: /in/natalia-gatti/
 - ⚡ Fun fact: 
-- I love to dance and read
-- I really like to walk with friends in nature, share barbecue with my family
+- I love to dance :dancer: and read :books:
+- I really like to walk with friends in nature :runner:, share barbecue :meat_on_bone: with my family :family:
 - To maintain a balance I do meditations
 
