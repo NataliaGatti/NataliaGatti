@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects that allow me to learn new techniques, tools and digital teamwork
 - 🤔 I’m looking for help with venture into the tech world
 - 📫 How to reach me:
-- gattinati.ng@gmail.com
+- :e-mail: gattinati.ng@gmail.com
 - 0351-153112471
 - /in/natalia-gatti/
 - ⚡ Fun fact: 
