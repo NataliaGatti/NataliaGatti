@@ -21,7 +21,7 @@
 - :calling: 0351-153112471
 - :computer: https://www.linkedin.com/in/natalia-gatti/
 - ⚡ Fun fact: 
-- I love to dance :dancer: and read :books:
-- I really like to walk with friends in nature :runner:, share barbecue :meat_on_bone: with my family :family:
+- I love dancing :dancer: and reading :books:
+- I really like going for walk with friends in nature :runner: and sharing barbecue :meat_on_bone: with my family :family:
 - To maintain a balance I do meditations
 
