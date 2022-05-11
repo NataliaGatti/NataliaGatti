@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a freelance public accountant
+- 🔭 I’m currently working as a Teacher Asistant in Le Wagon
 - 🌱 I’m currently learning about digital tools
 <!--
 - Languages and Tools:
@@ -14,6 +14,7 @@
 ![image](https://user-images.githubusercontent.com/65079282/112249177-139b4e80-8c36-11eb-98cc-23adbf78a5d1.png)
 ![image](https://user-images.githubusercontent.com/65079282/112249354-6117bb80-8c36-11eb-91f2-b2f45f169787.png)
 -->
+
 - 👯 I’m looking to collaborate on projects that allow me to learn new techniques, tools and digital teamwork
 - 🤔 I’m looking for help with venture into the tech world
 - 📫 How to reach me:
