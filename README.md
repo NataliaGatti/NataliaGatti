@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Teacher Asistant in Le Wagon
+- 🔭 I’m currently working as a Teacher in Le Wagon
 - 🌱 I’m currently learning about digital tools
 <!--
 - Languages and Tools:
