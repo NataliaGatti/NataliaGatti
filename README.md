@@ -42,7 +42,7 @@ I'm a Tester and software developer with experience in in web development and qu
 - Feel free to send me a message on :computer: https://www.linkedin.com/in/natalia-gatti/, :e-mail: gattinati.ng@gmail.com or check out my projects on GitHub.
 
  ⚡ **Fun fact** 
-- I love dancing :dancer: and reading :books:
+- I love dancing :dancer:, reading :books: and traveling 🗺️🧳
 - I really like going for walk with friends in nature :runner: and sharing barbecue :meat_on_bone: with my family :family:
 - To maintain a balance I do meditations
 
